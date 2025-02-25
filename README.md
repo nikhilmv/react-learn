@@ -18,8 +18,8 @@ This is a simple **CRUD (Create, Read, Update, Delete) application** built using
 
  ### 1️⃣ Clone the Repository
  
-git clone https://github.com/your-username/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/nikhilmv/react-learn.git
+cd react-learn
 
 ### 2️⃣ Install Dependencies
 
@@ -27,4 +27,4 @@ npm install
 
 ### 3️⃣ Start the Development Server
 
-npm run dev
+npm start
